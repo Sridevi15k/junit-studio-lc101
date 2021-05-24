@@ -6,7 +6,7 @@ public class BalancedBrackets {
      * The function BalancedBrackets should return true if and only if
      * the input string has a set of "balanced" brackets.
      *
-     * That is, whether it consists entirely of pairs of opening/closing
+     * That iss, whether it consists entirely of pairs of opening/closing
      * brackets (in that order), none of which mis-nest. We consider a bracket
      * to be square-brackets: [ or ].
      *
